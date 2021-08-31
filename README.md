@@ -6,6 +6,6 @@ This project is specify to open Anaconda application to open Jupyter Lab. I crea
 
 ![UIPath](https://github.com/astry-ec/UIPath_OpenAnacondaApp/blob/main/images/2021-08-31.png)
 
-2. This project only specify to open Anaconda3 which looks like below picture, because this robot only recognize below image to continue runnnig
+2. This project only specify to open Anaconda3 which looks like below picture, because this robot only recognize below image to continue running
 
 ![UIPath](https://github.com/astry-ec/UIPath_OpenAnacondaApp/blob/main/images/Screenshot%202021-08-31%20191813.png)
