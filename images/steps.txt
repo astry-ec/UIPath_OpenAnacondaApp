@@ -1,0 +1,2 @@
+1. Open UIPath Assistant
+2. Click play button on OpenJupyter2
